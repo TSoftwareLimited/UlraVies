@@ -1,10 +1,10 @@
 {
-  "app_name":"UltraVies",
+  "app_name": "UltraVies",
   "developer_name": "AHMED SEYAM",
-  "api_base_url":" null",
+  "api_base_url":"",
   "donation_url_bkash": "",
-  "dev_background_image": "https://raw.githubusercontent.com/TSoftwareLimited/UlraVies/refs/heads/main/ahmedseyamfull.jpg",
-  "dev_image": "https://raw.githubusercontent.com/TSoftwareLimited/UlraVies/refs/heads/main/ahmedseyamsqure.jpg",
+  "dev_background_image": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/ahmedseyamfull.jpg",
+  "dev_image": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/ahmedseyamsqure.jpg",
   "app_key": "",
   "ads_mode": "on",
   "ads_provider": "Unity",
@@ -13,5 +13,7 @@
   "update_title": "",
   "update_message": "",
   "updated_version": "",
-  "updated_key": ""
+  "updated_key": "",
+  "git_repo": "https://github.com/TSoftwareLimited/UltraVies/",
+  "config_url": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/config.json"
 }
