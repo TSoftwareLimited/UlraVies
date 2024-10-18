@@ -1,4 +1,4 @@
-{
+[{
   "app_name": "UltraVies",
   "developer_name": "AHMED SEYAM",
   "api_base_url":"",
@@ -16,4 +16,4 @@
   "updated_key": "",
   "git_repo": "https://github.com/TSoftwareLimited/UltraVies/",
   "config_url": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/config.json"
-}
+}]
