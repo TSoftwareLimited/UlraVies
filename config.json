@@ -7,7 +7,7 @@
   "dev_image": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/ahmedseyamsqure.jpg",
   "app_key": "<insert-app-key-here>",
   "ads_mode": "on",
-  "ads_provider": "Unity",
+  "ads_provider": "Custom",
   "update_type": "must",
   "app_version": "1.0",
   "update_title": "New Mandatory Update",
