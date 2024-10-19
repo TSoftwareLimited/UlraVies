@@ -15,5 +15,9 @@
   "updated_version": "1.1",
   "updated_key": "<insert-updated-key-here>",
   "git_repo": "https://github.com/TSoftwareLimited/UltraVies/",
-  "config_url": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/config.json"
+  "config_url": "https://raw.githubusercontent.com/TSoftwareLimited/UltraVies/refs/heads/main/config.json",
+"ads_title": "1.1",
+  "ads_message": "1.1",
+  "ads_image": "1.1",
+  "ads_url": "https://google.com"
 }
